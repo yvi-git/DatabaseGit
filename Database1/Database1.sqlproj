@@ -61,4 +61,7 @@
   <ItemGroup>
     <None Include="Scripts\ScriptsIgnoredOnImport.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Scripts\Script1.sql" />
+  </ItemGroup>
 </Project>
